@@ -1,70 +1,49 @@
-Markdown 中文简历
+苏佳杰
 ================
 
 ![GRAVATAR](images/gravatar.jpg)
-<wuzhangjin@gmail.com>
-[下载中文简历源码](https://raw.github.com/mwhite/resume/master/resume_cn.md)
-<http://github.com/tinyclub/markdown-lab/>
-
-兴趣爱好
---------
-
-*   用简单的 Markdown 文档创建漂亮的简历
-
+mail:<13750782397@163.com>
+| phone:17857026582
+| age:26(1997)
+| major: CS
+| git:<https://gitee.com/jiajiesu/projects>
 
 工作经验
 --------
+*   **上海哔哩哔哩科技有限公司**  
+    开发工程师, 流量生态部门, 线上组, <->
+    -   负责范围：B站首页推荐、相关推荐、竖屏视频推荐系统工程测开发和维护
+    -   工作内容：工程、业务开发、稳定性和效率
 
-*   **Word Processor** (Redmond, WA)
+项目经验
+--------
+工程向
+*   **全链路日志**  
 
-    Junior Resumé Maker, 2006 - 2007
+*   **特征一致性**  
 
-    -   Intermingled presentation and content
-    -   Styling was a pain, so either didn't do it or found a half-decent
-        template and didn't mess with it
-
-*   **\LaTeX\ + pdflatex**
-
-    Senior Resumé Maker, 2008 - 2010
-
-    -   Edited verbose \LaTeX\ documents in a text editor
-    -   Mixed content and presentation to achieve pixel-perfection
-    -   Installed and configured the unusual TeX setups required by the
-        best-looking \LaTeX\ resumés
-
-*   **LinkedIn, StackOverflow Careers, vizualize.me, etc**
-
-    Web Resumé Intern, August 2010
-
-    -   Entered data, adapting to different data models and formatting
-        limitations
-    -   Attempted to customize PDF exports and remove default resumé elements,
-        to no avail
-
-*   **用 Pandoc 处理 Markdown**
-
-    简历架构师, 2011 年 2 月至今
-
-    -   用一种格式撰写（Markdown），转换为多种格式（PDF, HTML, ODT, DOCX 等)
-    -   用 CSS 规范 HTML 的输出风格并用 \LaTeX 模板约定 PDF 的输出版式
-    -   针对 Markdown 的输入或其中一部分，对于每一种格式，都进行预处理。例如，包括 HTML 和 PDF，都支持提前把联系方式等信息移到页面的右上角
-    -   在紧要关头使用基于文本的简历
-    -   使用版本控制并免费托管在 Github 上
+业务向
+*   **真实展现捞回**  
 
 
-教育程度
+效率向
+*   **全链路打通自动发车**  
+
+
+
+教育经历
 --------
 
-*   **Github 大学** (万维网)
-
-    B.S. in Submodules, May 2012
-
+*   **浙江万里学院** (本科 | 2015 - 2019)
+*   **浙江理工大学** (硕士 | 2019 - 2022)
 
 知识技能
 --------
 
-*   熟悉 Python, Markdown, \LaTeX
+*   语言：精通Golang、熟悉C++、python、sql
+*   数据库：熟悉redis、mysql
+*   中间件：熟悉kafka, 了解RabbitMQ
 
-*   精通 GNU Make, bash
+
 
 
